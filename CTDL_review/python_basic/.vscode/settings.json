@@ -1,0 +1,28 @@
+{
+  "files.associations": {
+    "stdio.h": "c",
+    "algorithm": "cpp",
+    "iostream": "cpp",
+    "xstring": "cpp",
+    "ostream": "cpp",
+    "numeric": "cpp",
+    "queue": "cpp",
+    "deque": "cpp",
+    "utility": "cpp",
+    "vector": "cpp",
+    "stack": "cpp",
+    "*.tcc": "cpp",
+    "regex": "cpp",
+    "array": "cpp",
+    "forward_list": "cpp",
+    "list": "cpp",
+    "string": "cpp",
+    "unordered_map": "cpp",
+    "unordered_set": "cpp",
+    "string_view": "cpp",
+    "initializer_list": "cpp",
+    "valarray": "cpp",
+    "bitset": "c",
+    "random": "cpp"
+  }
+}
