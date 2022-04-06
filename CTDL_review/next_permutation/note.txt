@@ -1,1 +1,1 @@
-
+https://stackoverflow.com/questions/62570987/using-next-permutation-to-get-all-combinations-of-length-n-c
